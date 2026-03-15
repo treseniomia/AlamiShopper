@@ -49,7 +49,8 @@ npx expo start
 
 
 ## Developer:
-Developed by Mia Tresenio
+Developed by:
+Mia Tresenio
 
 
 ## Screenshots  
