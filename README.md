@@ -17,7 +17,7 @@ This project focuses on providing a local marketplace exclusively for Alaminos C
 1. Clone the repository:  
 
    ```bash
-   git clone https://github.com/miatresenio/AlamiShopper-EcommerceApp-Official.git
+   git clone https://github.com/treseniomia/AlamiShopper-EcommerceApp-Official.git
 
 
  Navigate to the project folder:
