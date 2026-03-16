@@ -45,7 +45,7 @@ npx expo start
  Admin Panel (web)
 
  ## Future
- Need backend
+ Need backend & New Features
 
 
 ## Developer:
