@@ -1,23 +1,29 @@
-# AlamiShopper  
+# AlamiShopper 🛍️
 
-A community-based online shopping mobile app.
-This project focuses on providing a local marketplace exclusively for Alaminos City, Pangasinan. Where sellers can post products and buyers can shop conveniently within the City.  
+**AlamiShopper** is a community-based, hyper-local e-commerce mobile application designed exclusively for residents and local businesses in Alaminos City, Pangasinan. It acts as a digital marketplace to connect micro, small, and medium enterprises (MSMEs) directly with local buyers for fast, convenient, and safe local trading.
 
+---
 
-## Features  
-- Local sellers can post products (clothes, food, accessories, etc.)  
-- Local buyers can purchase quickly within Alaminos City  
-- Cash on Delivery (COD)
-- Simple delivery system within the community  
-- Community-based online marketplace – like a virtual mall for Alaminos
-- NEED BACKEND
+## 🚀 Overview & Key Features
+- **Hyper-Local Marketplace:** Exclusively tailored for Alaminos City vendors and shoppers.
+- **Product Listings:** Local entrepreneurs can easily display products across categories like clothing, food, items, and accessories.
+- **Seamless Checkout:** Supports Cash on Delivery (COD) tailored for quick community delivery setups.
+- **Interactive Mobile UI:** Built-in screens for home browsing, category exploration, cart management, notifications, and user profiles.
 
+---
 
-## Installation  
-1. Clone the repository:  
+## 🛠️ Tech Stack & Architecture
+- **Frontend Framework:** React Native (Expo)
+- **State & UI Tools:** React Hooks / Custom UI Components
+- **Mock Data Engine:** JSON Server (REST API Simulation)
 
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/treseniomia/AlamiShopper-EcommerceApp-Official.git
+   git clone [https://github.com/treseniomia/AlamiShopper-EcommerceApp-Official.git](https://github.com/treseniomia/AlamiShopper-EcommerceApp-Official.git)
 
 
  Navigate to the project folder:
@@ -26,33 +32,28 @@ cd EcommerceApp
  Install dependencies:
 npm install
 
- Run the server:
+Start the Mock API Server (JSON Server):
 json-server —watch data/db.json
 
-
+Launch the Expo Development Server:
 npx expo start
 
 
-## Target Users
-- Sellers → Small and medium entrepreneurs in Alaminos City.     
-- Buyers → Residents looking for a convenient and local shopping experience.
+🎯 Target Audience
+Sellers: Local MSMEs, home-based businesses, and merchants in Alaminos City.
+Buyers: Residents looking for convenient local shopping with fast delivery options.
 
+📌 Development Roadmap
+[x] Responsive Frontend User Interface (React Native / Expo)
+[x] Mock API Integration via JSON Server
+[ ] Backend API Integration (Node.js / Express or Laravel)
+[ ] User Authentication & JWT Authorization
+[ ] Real-time Order & Delivery Tracking
+[ ] Admin Web Dashboard & Control Panel
 
-## Roadmap
- User Authentication (login/register)
- Product Listings
- Order & Delivery Tracking
- Payment Integration (COD / GCash)
-
- -/ Admin Dashboard
- -/ Admin Panel (web)
-
- ## Future
- Need backend & New Features
-
-
-## Developed by:
+👩‍💻 Developed By:
 Mia Tresenio
+Aspiring Mobile Application Developer
 
 
 ## Screenshots  
